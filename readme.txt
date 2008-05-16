@@ -1,4 +1,5 @@
 === WP_EasyReply ===
+Contributors: DCoda Ltd
 Tags: comments,automated
 Requires at least: 2.3.2
 Tested up to: 2.5.1
