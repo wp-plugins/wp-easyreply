@@ -1,5 +1,5 @@
 <?php
-class dc_easyreply_1_0_1 extends dc_base_2_1_0 {
+class dc_easyreply_1_0_1 extends dc_base_2_2_0 {
 	function init()
 	{
 		add_action('comment_form', array($this,'reply'),'the_ID');	
