@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: WP_EasyReply
-Plugin URI: http://www.dcoda.co.uk/index.php/downloads/wordpress/wp_easyreply/
+Plugin URI: http://www.dcoda.co.uk/index.php/tag/wp_easyreply/
 Description: Start replies to all comments since you last commented.
 Author: DCoda Ltd
 Version: 2.0.0
