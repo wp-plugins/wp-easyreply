@@ -12,8 +12,6 @@ $LastChangedRevision$
 $LastChangedBy$
 */
 require_once(dirname(__FILE__).'/library/classes/base.php');
-require_once(ABSPATH.'/wp-admin/includes/admin.php');
-require_once(ABSPATH.'/wp-admin/includes/upgrade.php');
 class wp_easyreply extends dcbase7  {}
 new wp_easyreply(__FILE__,'wp','easyreply');
 ?>
