@@ -1,5 +1,5 @@
 === WP_EasyReply ===
-Contributors: DCoda Ltd
+Contributors: dcoda
 Tags: DISCONTINUED
 Requires at least: 2.5
 Tested up to: 2.6
