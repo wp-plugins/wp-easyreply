@@ -3,7 +3,6 @@ Contributors: dcoda
 Tags: DISCONTINUED
 Requires at least: 2.5
 Tested up to: 2.6
-Stable tag: DISCONTINUED
 Discontinued as similar functionality is now part of WordPress
 
 == Description ==
