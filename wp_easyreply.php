@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: WP_EasyReply ( DISCONTINUED )
-Description: DISCONTINUED
+Description: Discontinued as similar functionality is now part of WordPress
 Author: DCoda Ltd
 Version: DISCONTINUED
 Author URI: http://www.dcoda.co.uk

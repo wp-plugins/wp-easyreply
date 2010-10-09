@@ -4,8 +4,8 @@ Tags: DISCONTINUED
 Requires at least: 2.5
 Tested up to: 2.6
 Stable tag: DISCONTINUED
-DISCONTINUED
+Discontinued as similar functionality is now part of WordPress
 
 == Description ==
 
-DISCONTINUED
+Discontinued as similar functionality is now part of WordPress
