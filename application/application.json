@@ -1,0 +1,25 @@
+{
+	"name":"EasyReply",
+	"status":"discontinued",
+	"version":"2.1",
+	"slug":"wp-easyreply",
+	"wordpress":
+	{
+		"uri":"http://easyreply.dcoda.co.uk/",
+		"wpslug":"wp-easyreply",
+		"stable_tag":"DISCONTINUED",
+		"short_desc":"Discontinued as similar functionality is now part of WordPress",
+		"donate_link":"http://easyreply.dcoda.co.uk/donate/",
+		"tags":
+		[
+		]
+	},
+	"help_meta":
+	{
+		"gettingstarted":
+		{
+			"url":"http://easyreply.dcoda.co.uk/help/getting-started/"
+		}
+	}
+
+}
